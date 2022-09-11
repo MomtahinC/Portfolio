@@ -1,0 +1,26 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: ghostwhite;
+    text-align: center;
+    color: black;
+    font-family: Helvetica, sans-serif, Verdana;
+  }
+  
+  header, footer {
+    background-color: #3FA7D6;
+    padding: 20px;
+    margin: auto;
+  }
+  
+  img {
+    height: 400px;
+    width: 400px;
+  }
+  
+  .bullet-align {
+    display: flex;
+    align-item: center;
+    justify-content: center;
+    text-align: left;
+  }
